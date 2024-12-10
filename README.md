@@ -21,7 +21,7 @@ Para cada cliente é preciso calcular as componentes abaixo:
 
 ---
 
-#### [Requisitos](https://github.com/JonatanAgneDeFreitas/DataScience/blob/main/Mod%2031%20-%20Streamlit%20V/requirements.txt)
+#### [Requisitos](https://github.com/JonatanAgneDeFreitas/RFV/blob/main/requirements.txt)
 ```bash
 numpy==1.26.4
 pandas==2.2.2
