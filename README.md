@@ -8,7 +8,7 @@ Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 #### Link para a aplicação (*Deploy* do modelo/streamlit)
 
 
-[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)]()
+[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)](https://deployrfvjaf.streamlit.app/)
 
 ---
 
